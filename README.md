@@ -38,7 +38,7 @@ This course gave me a strong foundation in SQL for querying and manipulating dat
 - Database design (UML & ERD) for pet department
 - Shipping data processing with Python
 
-## 🧠 SQL Certificates
+## 📘 SQL Certificates
 
 **Offered by:** – HackerRank
 ### Levels:
