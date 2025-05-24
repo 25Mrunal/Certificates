@@ -28,3 +28,12 @@ This course gave me a strong foundation in SQL for querying and manipulating dat
 - **Frontend**: Angular
 - **Backend**: Java, Spring Boot, Hibernate
 - **Database**: MySQL
+
+## 📘 Walmart Virtual Internship 
+
+**Offered by:** – Forage
+### Tasks:
+- Priority Queue using power-of-two max heap
+- Data processor system architecture
+- Database design (UML & ERD) for pet department
+- Shipping data processing with Python
