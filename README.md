@@ -4,10 +4,7 @@ proof of course completions and certificates
 ## 📘 Introduction to SQL – Simplilearn
 
 **Issued by:** Simplilearn  
-**Completed on:** [Month, Year]  
-**Certificate Link:** [Link to the raw GitHub file if you uploaded it]
-
-### 🧠 What I Learned:
+###  What I Learned:
 - Basics of relational databases
 - SQL syntax and data types
 - Writing queries using `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`
