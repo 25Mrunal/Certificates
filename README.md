@@ -37,3 +37,12 @@ This course gave me a strong foundation in SQL for querying and manipulating dat
 - Data processor system architecture
 - Database design (UML & ERD) for pet department
 - Shipping data processing with Python
+
+## 🧠 SQL Certificates
+
+**Offered by:** – HackerRank
+### Levels:
+
+- Basic SQL Certificate
+- Intermediate SQL Certificate
+- Advanced SQL Certificate
