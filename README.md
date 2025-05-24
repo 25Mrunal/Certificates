@@ -11,5 +11,20 @@ proof of course completions and certificates
 - Creating and modifying tables using `CREATE`, `ALTER`, and `DROP`
 - Using aggregate functions like `SUM`, `AVG`, `COUNT`, etc.
 - Understanding of joins and subqueries
-
 This course gave me a strong foundation in SQL for querying and manipulating data from databases.
+
+## 📘 Zensar Employability Skills Development (ESD) Program
+
+**Offered by:** Zensar Technologies & Zensar Foundation.
+### Skills Learned:
+- SQL
+- Java
+- Python
+
+## 📘 Full Stack Web Development 
+
+**Offered by:** – The Kiran Academy.
+### Skills Learned:
+- **Frontend**: Angular
+- **Backend**: Java, Spring Boot, Hibernate
+- **Database**: MySQL
